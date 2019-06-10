@@ -1,23 +1,30 @@
-# Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
+*.mode1v3
+*.pbxuser
+build/
+obj/
+*.o
+*.exe
+.DS_Store
+Debug/
+Release/
+.vs/
+html/
+latex/
+data/
+*.dll
+#*.lib
+*.ncb
+*.suo
+*.vcproj.*
+*.vcxproj.*
+*.sdf
+*.filters
 
-# Folder config file
-Desktop.ini
+#codeblocks files
+*/*/*.layout
+*/*/*.depend
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+Docs/html
+Docs/latex
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
 
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
