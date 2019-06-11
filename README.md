@@ -16,4 +16,4 @@ The project brief was to develop and implement in C++ a single-screen 3D video-g
 ___
 *Click on image to see video*
 <a href="https://www.youtube.com/watch?v=Pxtn1q6JNIk" target="_blank"><img src="https://img.youtube.com/vi/Pxtn1q6JNIk/maxresdefault.jpg" 
-alt="PhysX Rugby Kicking Game" width="818" height="460" border="0" /></a>
+alt="PhysX Rugby Kicking Game" width="920" height="517" border="0" /></a>
