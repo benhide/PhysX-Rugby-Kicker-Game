@@ -14,5 +14,6 @@ The project brief was to develop and implement in C++ a single-screen 3D video-g
 - PhysX functionalities including compound shapes, materials, joints, motors, triggers, filters, collisions groups
 
 ___
+*Click on image to see video*
 <a href="https://www.youtube.com/watch?v=Pxtn1q6JNIk" target="_blank"><img src="https://img.youtube.com/vi/Pxtn1q6JNIk/hqdefault.jpg" 
 alt="PhysX Rugby Kicking Game" width="960" height="720" border="10" /></a>
